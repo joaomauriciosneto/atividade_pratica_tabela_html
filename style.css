@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    /*border: 1px solid black;*/
+}
+
+.tabela {
+    width: 300px;
+    /*border: 1px solid black;*/
+    margin-top: 30px;
+}
+
+.tabela-2 {
+    width: 500px;
+    /*border: 1px solid black;*/
+    margin-top: 30px;
+}
+
+.esq {
+    border: 1px solid blue;
+    width: 100px;
+}
+
+.centro {
+    border: 1px solid blue;
+    width: 100px;
+    text-align: center;    
+}
+
+.dir {
+    border: 1px solid blue;
+    width: 100px;
+    text-align: right;    
+}
+
+.colspan-3 {
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.colspan-2{
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.col-row {
+    border: 1px solid blue;
+    text-align: center;
+    width: 100px;
+}
+
+.topo {
+    text-align: center;
+    padding: 40px;
+    border: 1px solid blue;
+}
+
+.tabela-3 {
+    width: 750px;
+    /*border: 1px solid black;*/
+    margin-top: 30px;
+}
+
+.topo-ex3 {
+    height: 150px;
+    border: 1px solid blue;
+    width: 750px;
+}
+
+.td-ex3-3 {
+    border: 1px solid blue;   
+    height: 150px;
+    width: 50px;
+}
+
+.td-ex3-3-rodape {
+    border: 1px solid blue; 
+    height: 150px;
+}
+
+.td-ex3-1 {
+    border: 1px solid blue;   
+    width: 50px;
+    height: 150px;
+}
+
+.td-ex3-2 {
+    border: 1px solid blue;   
+    height: 150px;
+    width: 50px;
+}
+
+.menu {
+    width: 150px;
+    border: 1px solid blue;
+    height: 300px;
+    text-align: center;
+}
+
+.conteudo {
+    width: 350px;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.rodape {
+    border: 1px solid blue;
+    text-align: center;
+    width: 500px;
+    padding: 15px;
+}
+
+.tb-2 {
+    margin-top: 50px;
+}
